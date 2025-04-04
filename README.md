@@ -1,8 +1,9 @@
-# Weather Scraper 🌦️
+# Weather Scraper 🌤️
 
 A simple Python script that fetches weather data for any city on a given date using the Visual Crossing Weather API.
 
 ## Features
+
 - Enter any city and a date (e.g., `London`, `2025-01-11`)
 - Fetches temperature, wind speed, and weather conditions
 - Saves results to a local CSV file (`weather_log.csv`)
@@ -10,11 +11,7 @@ A simple Python script that fetches weather data for any city on a given date us
 ## How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/weather_scraper.git
-   cd weather_scraper
 
-    ```bash
-    git add README.md
-    git commit -m "Add full README with usage instructions"
-    git push origin main
+```bash
+git clone https://github.com/YOUR_USERNAME/weather_scraper.git
+cd weather_scraper
