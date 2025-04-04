@@ -13,5 +13,10 @@ A simple Python script that fetches weather data for any city on a given date us
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather_scraper.git
+git clone https://github.com/WilliamAntonDev/weather_scraper.git
 cd weather_scraper
+
+```
+
+
+
